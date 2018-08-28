@@ -6,5 +6,5 @@ In questa analisi, utilizzeremo i [dati pubblici](http://opendata.atlas.cern) de
 
 ## Requisiti
 * Sistema operativo: Linux/Windows/MacOS
-* Aver installato [Docker](http://docker.com)
+* Aver installato [Docker](https://store.docker.com/search?type=edition&offering=community)
 * 5 GBytes di disco fisso
